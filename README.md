@@ -1,5 +1,7 @@
 # Collada URDF
 
+*This is a fork for porting collada_urdf to ROS2.*
+
 This contains packages for converting from collada files to URDF.
 See the ROS wiki for API documentation and tutorials.
 
